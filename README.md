@@ -3,7 +3,7 @@ A minor project using python's tkinter GUI module.
 
 My first GUI project.
 
-N/B: Some buttons weill not respond.
+N/B: Some buttons will not respond.
 
 #######################################################################
 
